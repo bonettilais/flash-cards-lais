@@ -1,7 +1,7 @@
 :root{
     --text-color: #dbe4ef;
     --card-front-color: #144480;
-    --card-back-color: #00f4bf;
+    --card-back-color: #00f4bf
 }
 
 body{
@@ -24,8 +24,6 @@ body{
     background-color: var(--card-front-color);
     text-align: center;
     height: 100%;
-    transform-style: preserve-3d;
-    
 }
 
 .cartao__conteudo h3{
@@ -49,7 +47,7 @@ body{
     font-weight: 500;
 }
 
-.cartao__conteudo__resposta p{
+.cartao__conteudo__reposta p{
     color: var(--card-back-color);
     font-weight: 700;
 }
@@ -66,5 +64,5 @@ footer{
 footer p{
     text-align: center;
     font-size: 0.6rem;
-    margin-top: 0.5rem ;
+    margin-top: 0.5rem;
 }
