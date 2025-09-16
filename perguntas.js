@@ -4,7 +4,7 @@ criaCartao(
     'Entre 4 a 6 litros. São retirados 450 mililitros.'
 )
 
-Cartao(
+criaCartao(
     'Física',
     'O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?',
     'Os dois pesam a mesma quantidade: 1 quilo.'
@@ -34,43 +34,43 @@ criaCartao(
     'Sal de cozinha'
 )
 
-Cartao(
+criaCartao(
     'medicina',
     'Qual a especialidade do otorrinolaringologista?',
     'Tratamento das doenças relacionadas a nariz, ouvido e garganta.'
 )
 
-Cartao(
+criaCartao(
     'botânica',
     'Que fruto nasce da oliveira?',
     'Azeitona'
 )
 
-Cartao(
+criaCartao(
     'geografia',
     'Em que país se localiza o Taj Mahal?',
     'Índia'
 )
 
-Cartao(
+criaCartao(
     'química',
     'Qual destas substâncias faz parte da composição do vidro?',
     'Areia'
 )
 
-Cartao(
+criaCartao(
     'História da Cultura Pop',
     ' Quem criou os personagens Mickey e Minnie Mouse?',
     'Walt Disney.'
 )
 
-Cartao(
+criaCartao(
     'Entretenimento',
     ' Quantos são os personagens principais do seriado norte-americano Friends?',
     'Seis.'
 )
 
-Cartao(
+criaCartao(
     'Cultura Pop',
     'Qual artista é conhecido como o Rei do Pop?',
     'Michael Jackson'
