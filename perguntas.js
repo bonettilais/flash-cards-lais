@@ -1,5 +1,5 @@
 criaCartao(
-    'biologia',
+    'Biologia',
     'Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?',
     'Entre 4 a 6 litros. São retirados 450 mililitros.'
 )
@@ -11,19 +11,19 @@ criaCartao(
 )
 
 criaCartao(
-    'história',
+    'História',
     'Quem inventou a lâmpada?',
     'Thomas Edison.'
 )
 
 criaCartao(
-    'biologia',
+    'Biologia',
     'Quantos ossos temos no nosso corpo?',
     '206 ossos.'
 )
 
 criaCartao(
-    'história',
+    'História',
     'Quem pintou Mona Lisa?',
     'Leonardo da Vinci.'
 )
@@ -31,31 +31,31 @@ criaCartao(
 criaCartao(
     'Química',
     'Qual o nome popular do cloreto de sódio?',
-    'Sal de cozinha'
+    'Sal de cozinha.'
 )
 
 criaCartao(
-    'medicina',
+    'Medicina',
     'Qual a especialidade do otorrinolaringologista?',
     'Tratamento das doenças relacionadas a nariz, ouvido e garganta.'
 )
 
 criaCartao(
-    'botânica',
+    'Botânica',
     'Que fruto nasce da oliveira?',
-    'Azeitona'
+    'Azeitona.'
 )
 
 criaCartao(
-    'geografia',
+    'Geografia',
     'Em que país se localiza o Taj Mahal?',
-    'Índia'
+    'Índia.'
 )
 
 criaCartao(
-    'química',
+    'Química',
     'Qual destas substâncias faz parte da composição do vidro?',
-    'Areia'
+    'Areia.'
 )
 
 criaCartao(
@@ -73,6 +73,6 @@ criaCartao(
 criaCartao(
     'Cultura Pop',
     'Qual artista é conhecido como o Rei do Pop?',
-    'Michael Jackson'
+    'Michael Jackson.'
 )
 
